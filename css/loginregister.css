@@ -1,0 +1,164 @@
+body{
+	background-color: #f7f7f7;
+}
+.login-title{
+	width: 100%;
+	height: .88rem;
+	background-color: #e7383d;
+	position: relative;
+	text-align: center;
+}
+
+.mimadl{
+	line-height: .88rem;
+	color: #fefaf1;
+	font-size: .39rem;
+	letter-spacing: .01rem;
+}
+.cancel{
+	font-size: .2rem;
+	color: #f9d3d5;
+	line-height: .88rem;
+	float: left;
+	position: absolute;
+	left: .25rem;
+}
+.login-message{
+	width: 100%;
+	height: 1.55rem;
+	margin-top: .3rem;
+}
+.shouji{
+	height: .775rem;
+	width: 100%;
+	background-color: white;
+	
+	line-height: .775rem;
+	color: #1b1c1b;
+	font-size: .24rem;
+	position: relative;
+}
+.shouji-rg2{
+	margin-top: .12rem;
+	background-color: white;
+}
+.shouji label{
+	margin-left: .25rem;
+}
+.login-2{
+	border: 0;
+	margin-left: .17rem;
+	font-size: .24rem;
+	width: 4.5rem;
+}
+.login-2::-webkit-input-placeholder{
+	color: #b0b0b0;
+}
+.rg2xinxi{
+	margin-left: .25rem;
+}
+
+.login-2-rg1{
+	margin-left: .43rem;
+}
+
+.l3{
+	margin-left: .41rem;
+}
+.l3-rg1{
+	margin-left: .17rem;
+}
+.login-pw-view{
+	font-family: 'iconfont';
+	color: #de616b;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: .49rem;
+	margin: auto;
+}
+.login-submit-z{
+	position: relative;
+}
+.login-submit{
+	width: 5.71rem;
+	height: .67rem;
+	border: 0;
+	margin-left: .99rem;
+	margin-top: .33rem;
+	border-radius: 100rem;
+	letter-spacing: .05rem;
+	background-color: #ea5742;
+	color: white;
+}
+.dian{
+	width: .07rem;
+	height: .07rem;
+	background-color: #f5f2f6;
+	position: absolute;
+	left: 2.91rem;
+	bottom: .3rem;
+	z-index: 999;
+	border-radius: 100rem;
+}
+.dian-right{
+	width: .07rem;
+	height: .07rem;
+	background-color: #f5f2f6;
+	position: absolute;
+	right: 2.91rem;
+	bottom: .3rem;
+	z-index: 999;
+	border-radius: 100rem;
+}
+.kuaijie{
+	width: 100%;
+	height: .22rem;
+	margin-top: 1.34rem;
+	font-size: .22rem;
+	line-height: .22rem;
+}
+.kuaijie-rg2{
+	margin-top: 2.29rem;
+}
+.kuaijie a{
+	float: left;
+	margin-left: 3.03rem;
+	margin-right: .07rem;
+	color: #d9d5d5;
+}
+.kuaijie-dian{
+	width: .07rem;
+	height: .07rem;
+	background-color: #e42b68;
+	float: left;
+	margin-top: .06rem;
+	border-radius: 10rem;
+}
+.tishi{
+	width: 100%;
+	height: .48rem;
+	margin-bottom: 1.3rem;
+	margin-top: 7.1rem;
+	font-size: .21rem;
+	color: #b4aaa5;
+}
+.tishi-rg2{
+	margin-top: 6.15rem;
+}
+.ts{
+	margin: 0 .5rem;
+}
+.tishi p{
+	display: inline;
+}
+.ts p:nth-child(2),.ts p:nth-child(4){
+	color: #cccac8;
+}
+.huoqu{
+	color: #cfcac8;
+}
+.huoqu-rg2{
+	margin-right: .14rem;
+	float: right;
+}

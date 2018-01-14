@@ -1,0 +1,146 @@
+.mine-head{
+	width: 7.5rem;
+	height: 3.9rem;
+}
+.mine-head img{
+	width: 100%;
+	height: 3.9rem;
+}
+
+.mine-item1{
+	width: 100%;
+	height: 1.48rem;
+	background-color: white;
+	margin-top: .24rem;
+}
+.mine-item1-content{
+	width: 7.16rem;
+	height: 1.16rem;
+	margin: 0 auto;
+	padding-top: .32rem;
+	position: relative;
+}
+
+.mine-xinzeng{
+	font-size: .22rem;
+	color: #3f3e3e;
+	font-family: 'Source Han Sans CN Regular';
+	letter-spacing: .01rem;
+	position: absolute;
+	top: .17rem;
+	left: 4.2rem;
+}
+
+.mine-item1-shang{
+	height: .69rem;
+	width: 100%;
+}
+
+.mine-shang{
+	width: 1.77rem;
+	height: .44rem;
+	float: left;
+	border-right: .02rem solid #bbbaba;
+	color: #3c3d3c;
+	font-size: .25rem;
+	text-align: center;
+	padding-top: .25rem;
+	font-family: 'Source Han Sans CN Regular';
+	font-weight: normal;
+}
+.mine-s4{
+	width: 1.79rem;
+	border: 0;
+
+}
+
+.mine-item1-xia{
+	width: 100%;
+	height: .22rem;
+	margin:0 auto;
+	margin-top: .05rem;
+}
+.mine-xia{
+	width: 1.79rem;
+	height: .22rem;
+	float: left;
+	text-align: center;
+	font-size: .22rem;
+	color: #6e6d6d;
+	font-family: 'Source Han Sans CN Regular';
+	letter-spacing: .01rem;
+}
+
+/* 列表2开始 */
+.mine-item2{
+	width: 6.44rem;
+	height: 1.49rem;
+	background-color: white;
+	margin-top: .3rem;
+	padding: 0 .23rem 0 .83rem;
+	position: relative;
+}
+.mine-item2 li{
+	height: 0.745rem;
+	line-height: .745rem;
+	font-size: .25rem;
+	font-family: 'Source Han Sans CN Regular';
+	color: #6e6d6d;
+}
+.mine-wenzi{
+	float: left;
+}
+.mine-jiantou{
+	font-family: 'iconfont';
+	float: right;
+	color: #c1bfbd;
+}
+.mine-hengxian{
+	width: 6.2rem;
+	height: .02rem;
+	background-color: #f3f3f3;
+	position: absolute;
+	left: 1.01rem;
+	top: .745rem;
+	z-index: 999;
+}
+.mine-hengxian div:nth-child(1){
+	height: 100%;
+	width: .06rem;
+	background-color: #b4b4b4;
+	float: left;
+}
+.mine-hengxian div:nth-child(2){
+	height: 100%;
+	width: .06rem;
+	background-color: #b4b4b4;
+	float: right;
+}
+
+
+/* 列表3开始 */
+.mine-item3{
+	height: 2.235rem;
+}
+.mine-hengxian-2{
+	top: 1.49rem;
+}
+.mine-100jifen{
+	line-height: .745rem;
+    font-size: .25rem;
+    font-family: 'Source Han Sans CN Regular';
+    color: #c4c3c4;
+    letter-spacing: .01rem;
+    position: absolute;
+    top: 0;
+    right: .5rem;
+    font-weight: 100;
+}
+.mine-yjf02{
+	top: .74rem;
+}
+
+/* 列表4开始 */
+.mine-item4{
+	height: .745rem;
+}

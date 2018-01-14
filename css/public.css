@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	text-decoration: none;
+	padding: 0;/* 清除ul的默认格式 */
+	list-style: none;
+}
+/* img默认有border大小，需要清除 */
+img{
+	border: 0;
+	display: block;
+}
+
+@font-face {
+  font-family: 'iconfont';  /* project id 537878 */
+  src: url('http://at.alicdn.com/t/font_537878_vvkoada8n21vpldi.eot');
+  src: url('http://at.alicdn.com/t/font_537878_vvkoada8n21vpldi.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_537878_vvkoada8n21vpldi.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_537878_vvkoada8n21vpldi.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_537878_vvkoada8n21vpldi.svg#iconfont') format('svg');
+}

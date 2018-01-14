@@ -1,0 +1,161 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.meishi-title {
+    width: 100%;
+    height: .88rem;
+    background-color: #e7383d;
+    position: relative;
+    text-align: center;
+
+}
+.meishi-title{
+    line-height: .88rem;
+    color: #fefaf1;
+    font-size: .39rem;
+    letter-spacing: .01rem;
+}
+.meishi-title p{
+	font-size: .45rem;
+	color: white;
+	font-family: 'iconfont';
+	line-height: .88rem;
+	position: absolute;
+	right: .26rem;
+	top: 0rem;
+	font-weight: bolder;
+	border-radius: 1rem;
+}
+
+/* 列表1开始 */
+.meishi-item1{
+	border-radius: .1rem .1rem .06rem .06rem;
+	width: 6.93rem;
+	height: 2.09rem;
+	background-color: #e72639;
+	margin: 0 auto;
+	margin-top: .34rem;
+}
+.meishi-content{
+	width: 6.26rem;
+	height: 1.75rem;
+	border-radius: .06rem .06rem 0 0;
+	background-color: white;
+	box-shadow: 0 0 .18rem .01rem #dfe2e2;
+	padding: .14rem .51rem .14rem .16rem;
+}
+.mine-left{
+	width: 2.04rem;
+	height: 1.68rem;
+	background-color: white;
+	float: left;
+	box-shadow: 0 0 .18rem .001rem #d2cbce;
+	border: 0.03rem solid white;
+	border-radius: .1rem;
+	margin-right: .19rem;
+}
+.mine-left img{
+	border-radius: .08rem;
+	width: 2.04rem;
+	height: 1.68rem;
+}
+
+.mine-right{
+	width: 3.97rem;
+	height: 1.66rem;
+	padding-top: .06rem;
+	float: right;
+}
+.mine-right p{
+	font-size: .32rem;
+	color: #5b5c5b;
+	font-weight: 600;
+	letter-spacing: .03rem;
+	margin-bottom: .15rem;
+}
+.meishiu-wuxing{
+	width: 1.5rem;
+	height: .17rem;
+	padding-left: .04rem;
+	margin-bottom: .15rem;
+}
+.meishiu-wuxing p{
+	font-family: 'iconfont';
+	color: #e7373c;
+	font-size: .00000001rem;
+	margin-right: .05rem;
+	float: left;
+	line-height: .17rem;
+}
+.meishiu-wuxing p:nth-child(5){
+	margin-right: 0;
+}
+.meishi-address{
+	width: 3.93rem;
+	height: .24rem;
+	padding: 0 .03rem 0 .01rem;
+	margin-bottom: .1rem;
+}
+.meishi-address p{
+	font-size: .24rem;
+	color: #a3a3a4;
+	line-height: .24rem;
+	margin-right: .11rem;
+	float: left;
+}
+.meishi-address div{
+	width: .02rem;
+	height: 100%;
+	background-color: #a3a3a4;
+	float: left;
+	margin-right: .12rem;
+}
+.meishi-address p:nth-child(3){
+	float: right;
+	letter-spacing: .01rem;
+}
+
+.meishi-qita{
+	width: 3.97rem;
+	position: relative;
+}
+.meishi-zan{
+	width: .22rem;
+	height: .26rem;
+	background-color: #fdfefe;
+	border-radius: 50%;
+	box-shadow: 0 0 .18rem .001rem #e2e2e2;
+	text-align: center;
+	padding: .09rem .11rem;
+	margin-right: .11rem;
+}
+.meishi-zan p{
+	font-family: 'iconfont';
+	font-size: .25rem;
+	color: #e7373c;
+}
+.meishi-qita .meishi-xf{
+	font-size: .24rem;
+	color: #a3a3a4;
+	float: right;
+	position: absolute;
+	left: .6rem;
+	top: 0.05rem;
+	letter-spacing: .02rem;
+}
+.mine-right .meishi-RMB{
+	font-size: .17rem;
+	color: #e73137;
+	position: absolute;
+	right: 0;
+	top: 0.1rem;
+	letter-spacing: .01rem;
+}
+
+
+
+
+.meishi-item2{
+	margin-top: .15rem;
+}
