@@ -3,6 +3,8 @@
 	text-decoration: none;
 	padding: 0;/* 清除ul的默认格式 */
 	list-style: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	outline: none;
 }
 /* img默认有border大小，需要清除 */
 img{
